@@ -1,4 +1,4 @@
-tk
-pillow
+Pillow
 phonenumbers
 requests
+python-whois
