@@ -36,4 +36,4 @@ Lumox is an OSINT (Open Source Intelligence) tool for gathering publicly availab
 
 ---
 
--# More features soon.. 
+> More features soon.. 
