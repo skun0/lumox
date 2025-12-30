@@ -1,6 +1,6 @@
-# Orbis – OSINT Tool
+# Lumox – OSINT Tool
 
-Orbis is an OSINT (Open Source Intelligence) tool for gathering publicly available information from phone numbers and IP addresses. It provides a simple and modern interface for digital investigations and security research.
+Lumox is an OSINT (Open Source Intelligence) tool for gathering publicly available information from phone numbers and IP addresses. It provides a simple and modern interface for digital investigations and security research.
 
 ## Features
 
